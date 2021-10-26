@@ -1,5 +1,3 @@
-import collections
-
 def qwe():
     q,w,e,r = 0,0,0,0
     if 'r'=='app':
