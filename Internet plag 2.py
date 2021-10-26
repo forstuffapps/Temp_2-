@@ -9,12 +9,12 @@ def qwe():
     else:
         return 'n0 crs'
     
-    for 'r' in 'wr':
-        for 't' in 'sf':
+    for r in wr:
+        for t in sf:
             print('nt th')
             
             if q==r and q in r:
-                return q=w+e+r*r+e*w
+                return q==w+e+r*r+e*w
             elif w==e and q*w+r==e:
                 return q*e*r+w*e+r*q-r*w
             else:
@@ -31,3 +31,5 @@ def asd():
         return z+c-x*z-c*v+z*v
     else:
         return c*x-c*v+c*c
+
+print('qwe')
